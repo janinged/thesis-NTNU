@@ -20,3 +20,6 @@ thesis.alg
 thesis.glg
 thesis.gls
 *~
+thesis.fdb_latexmk
+thesis.fls
+thesis.synctex.gz
